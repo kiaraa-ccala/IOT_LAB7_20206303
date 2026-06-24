@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bicipucp_navy">#062A4E</color>
+    <color name="bicipucp_bg">#F2FAFA</color>
+    <color name="bicipucp_orange">#EF5B0C</color>
+    <color name="bicipucp_green">#1E8E4D</color>
+    <color name="bicipucp_red">#C61B22</color>
+    <color name="bicipucp_line">#CCD6E3</color>
+</resources>

@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: pucp-validador-service
+
+server:
+  port: 8001
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info
+  endpoint:
+    health:
+      show-details: always
+
+info:
+  app:
+    name: pucp-validador-service
+    description: Validador stateless de alumnos y candados BiciPUCP

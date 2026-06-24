@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_carnet"
+        android:title="Mi Carn&#233; IoT" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Cerrar sesi&#243;n" />
+</menu>
