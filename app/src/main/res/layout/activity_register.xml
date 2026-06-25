@@ -18,7 +18,7 @@
             android:gravity="center_vertical"
             android:paddingStart="24dp"
             android:paddingEnd="24dp"
-            android:text="â† BiciPUCP"
+            android:text="&#8592; BiciPUCP"
             android:textColor="@android:color/white"
             android:textSize="25sp"
             android:textStyle="bold" />
@@ -32,7 +32,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="AFILIACION DE CAMPUS IoT"
+                android:text="AFILIACI&#211;N DE CAMPUS IoT"
                 android:textColor="#17233A"
                 android:textSize="21sp"
                 android:textStyle="bold" />
@@ -69,7 +69,7 @@
                 android:layout_height="54dp"
                 android:layout_marginTop="12dp"
                 android:background="@drawable/bg_field"
-                android:hint="Contrasena"
+                android:hint="Contrase&#241;a"
                 android:inputType="textPassword" />
 
             <EditText
@@ -79,7 +79,7 @@
                 android:layout_marginTop="12dp"
                 android:background="@drawable/bg_field"
                 android:digits="0123456789"
-                android:hint="Codigo PUCP (8 digitos)"
+                android:hint="C&#243;digo PUCP (8 d&#237;gitos)"
                 android:inputType="number"
                 android:maxLength="8" />
 
@@ -90,7 +90,7 @@
                 android:layout_marginTop="12dp"
                 android:background="@drawable/bg_field"
                 android:digits="0123456789"
-                android:hint="PIN Candado IoT (4 digitos)"
+                android:hint="PIN Candado IoT (4 d&#237;gitos)"
                 android:inputType="numberPassword"
                 android:maxLength="4" />
 

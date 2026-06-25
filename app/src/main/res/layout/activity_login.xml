@@ -31,7 +31,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="INICIO DE SESION"
+                android:text="INICIO DE SESI&#211;N"
                 android:textColor="#17233A"
                 android:textSize="22sp"
                 android:textStyle="bold" />
@@ -59,7 +59,7 @@
                 android:layout_height="54dp"
                 android:layout_marginTop="14dp"
                 android:background="@drawable/bg_field"
-                android:hint="Contrasena"
+                android:hint="Contrase&#241;a"
                 android:inputType="textPassword" />
 
             <ProgressBar
@@ -87,7 +87,7 @@
                 android:layout_height="54dp"
                 android:layout_marginTop="12dp"
                 android:backgroundTint="@color/bicipucp_navy"
-                android:text="CREAR AFILIACION IoT"
+                android:text="CREAR AFILIACI&#211;N IoT"
                 android:textColor="@android:color/white"
                 android:textStyle="bold" />
         </LinearLayout>
